@@ -1,0 +1,9 @@
+{
+  "env": {
+    "MONGO_USER": "mudassar",
+    "MONGO_PASSWORD": "123",
+    "DEFAULT_DATABASE": "shop",
+    "EMAIL": "mudduleodummy@gmail.com",
+    "PASSWORD": "kpacayrpmxpvsmqz"
+  }
+}
